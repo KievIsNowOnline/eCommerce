@@ -1,0 +1,6 @@
+C:\Users\jkbautista\documents\visual studio 2013\Projects\eCommerce\eCommerce\bin\eCommerce.dll.config
+C:\Users\jkbautista\documents\visual studio 2013\Projects\eCommerce\eCommerce\bin\eCommerce.dll
+C:\Users\jkbautista\documents\visual studio 2013\Projects\eCommerce\eCommerce\bin\eCommerce.pdb
+C:\Users\jkbautista\documents\visual studio 2013\Projects\eCommerce\eCommerce\obj\Debug\eCommerce.csprojResolveAssemblyReference.cache
+C:\Users\jkbautista\documents\visual studio 2013\Projects\eCommerce\eCommerce\obj\Debug\eCommerce.dll
+C:\Users\jkbautista\documents\visual studio 2013\Projects\eCommerce\eCommerce\obj\Debug\eCommerce.pdb
