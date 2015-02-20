@@ -8,16 +8,17 @@
 }
 
 .button-container {
-    border: 1px solid #d6d6d6;
+    
     height:25px;
+    position:relative;
 }
 
     .button-container input[type=button]{
-        float: right;
-        padding:3px
+        height:20px; position:relative; margin: 3px -50px; width:100px; left:50%;
+        
     }
 
     body{
         font-family:Arial, Helvetica, sans-serif;
-        font-size:12px;
+        font-size:14px;
     }
