@@ -62,7 +62,7 @@
     <Content Include="Exercise1.html" />
     <Content Include="img\netsuite-logo-600x180.jpg" />
     <Content Include="jquery-1.11.2.js" />
-    <Content Include="pageLib.js" />
+    <Content Include="pageLib.ex1.js" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
